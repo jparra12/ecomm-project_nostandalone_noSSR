@@ -1,0 +1,16 @@
+{
+  "seller": [
+    {
+      "id": "3745",
+      "name": "Juan Pernia",
+      "password": "12345666*%",
+      "email": "jparra@gmail.com"
+    },
+    {
+      "id": "6451",
+      "name": "Jose Perales",
+      "password": "123466*%",
+      "email": "jp@gmail.com"
+    }
+  ]
+}
